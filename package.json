@@ -25,7 +25,7 @@
     "koa-router": "^5.1.2",
     "koa-static": "^1.4.9",
     "optimist": "^0.6.1",
-    "tracer": "^0.8.0"
+    "tracer": "^0.9.9"
   },
   "repository": {
     "type": "git",
